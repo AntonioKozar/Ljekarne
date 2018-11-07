@@ -1,1 +1,3 @@
 # Ljekarne
+
+Pharmaceutical company EuroVITA had a need for some sort of a call center so they can keep track of witch pharmacies have they called and what did they communicate to them. With this they needed system for delivering to all of them or selected groups advertisement material. All of this was done with website with two parts, server side (Apache, MySQL, PHP, FTP) and client side (CSS, HTML, PHP, JavaScript, MySQL)

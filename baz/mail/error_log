@@ -1,0 +1,1 @@
+[01-Sep-2014 12:52:28] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ljekarne/public_html/baz/mail/mail.php:14) in /home/ljekarne/public_html/baz/mail/mail.php on line 15
